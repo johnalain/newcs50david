@@ -1,12 +1,11 @@
-#https://youtu.be/nLRL_NcnK-4?t=9527
-name = input("what's your name: ")
-if name == "harry":
-    print("Please")
-elif name == "Hermione":
-    print("Please")
-elif name == "ron":
-    print("Please")
-elif name == "drace":
+name = input("whats your name : ")
+if name == "Harry" or name == "ron" or name == "bor":
     print("gryffinder")
+# elif name == "ron":
+#     print("gryffinder")
+# elif name == "bor":
+#     print("gryffinder")
+elif name == "drace":
+    print("Elyffinder")
 else:
-    print("who")
+    print("who ?")

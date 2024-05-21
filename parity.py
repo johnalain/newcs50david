@@ -16,7 +16,11 @@ def is_even(n):
     # else:
     #     return False
     # same as
-     return True if n % 2 == 0 else  False
+    #  return True if n % 2 == 0 else  False
+    if n % 2 == 0:
+        return True
+    else:
+        return False
 main()
 #https://youtu.be/nLRL_NcnK-4?t=9105
         
