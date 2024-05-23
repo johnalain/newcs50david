@@ -105,8 +105,9 @@
 #------API'S----
 #---requests packages------
 #https://youtu.be/nLRL_NcnK-4?t=20712
-#the request library allows to make requests
+#the request library allows to make requests "pip3 install requests"
 #pypi.org/project/requests
+#https://youtu.be/nLRL_NcnK-4?t=20957
 
 
 
